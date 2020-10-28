@@ -31,3 +31,4 @@
 
   - Only Preset 0,1 and 2 toggle the button as a switch. This is due to low memory on Arduino
   
+ Credits to http://www.runoffgroove.com/ for the Ruby Amp schematics and instructions
